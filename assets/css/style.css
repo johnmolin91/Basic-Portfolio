@@ -1,0 +1,133 @@
+
+
+body {
+	width:100%;
+	background-image:url(../images/seigaiha/seigaiha/seigaiha.png)
+}
+
+.myName {
+	background-color:#4aaaa5;
+	color:white;
+	height:80px;
+	width:300px;
+	text-align:center;
+	line-height:80px;
+	font-size:24px;
+	font-weight:bold;
+	margin-left:150px;
+	margin-top:20px;
+	float:left;
+}
+
+.about {
+	position:absolute;
+	color:grey;
+	list-style-type:none;
+	height:80px;
+	line-height:40px;
+	margin-left:800px;
+	margin-top:35px;
+}
+
+
+.portfolio {
+	position:absolute;
+	color:grey;
+	list-style-type:none;
+	height:80px;
+	line-height:40px;
+	margin-left:875px;
+	margin-top:35px;
+}
+
+
+.contact {
+	position:absolute;
+	color:grey;
+	list-style-type:none;
+	height:80px;
+	line-height:40px;
+	margin-left:975px;
+	margin-top:35px;
+}
+
+#aboutMe {
+	height:80px;
+	width:300px;
+	text-align:center;
+	line-height:80px;
+	font-size:24px;
+	font-weight:bold;
+	color:#4aaaa5;
+	clear:both;
+	background:white;
+}
+
+.mainSection {
+	width:620px;
+	margin-left:150px;
+}
+
+#me {
+	float:left;
+	padding:10px;
+}
+
+.bio {
+	padding:5px;
+	line-height:1.5;
+}
+
+.connect {
+	color:#4aaaa5;
+	display:inline;
+	position:absolute;
+	margin-left:800px;
+	margin-top:-320px;
+	font-size:24px;
+}
+
+.github {
+	position:absolute;
+	display:inline;
+	margin-top:-270px;
+	margin-left:800px;
+}
+
+.linkedIn {
+	position:absolute;
+	display:inline;
+	margin-top:-270px;
+	margin-left:860px;
+}
+
+.stackOverflow {
+	position:absolute;
+	display:inline;
+	margin-top:-270px;
+	margin-left:920px;
+}
+
+footer {
+	clear:both;
+	background:grey;
+	padding:20px;
+	text-align:center;
+	color:white;
+	width:100%;
+}
+
+.form, .form2 {
+	width:500px;
+}
+
+.form2 {
+	height:200px;
+	line-height:1.5;
+}
+
+.submit {
+	padding: 10px 20px 10px 20px;
+	background:#4aaaa5;
+	color:white;
+}
